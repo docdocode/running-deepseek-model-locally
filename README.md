@@ -18,4 +18,4 @@ A streamlined AI pair programming assistant powered by Ollama and LangChain, fea
 
 3. Run the application
 
-Built with ❤️ using [Ollama](https://ollama.ai/) and [LangChain](https://python.langchain.com/)
+Built with [Ollama](https://ollama.ai/) and [LangChain](https://python.langchain.com/)
